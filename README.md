@@ -1,4 +1,4 @@
-# Web-Based Clinic Appointment System
+# Web-Based Patient Appointment Booking System
 
 **Notes** 
 This is the modified version
