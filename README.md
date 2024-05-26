@@ -1,19 +1,18 @@
 # Web-Based Patient Appointment Booking System
 
-**Notes** 
-This is the modified version
+For System Design Specification, you can refer to this document 
 
-Technologies involved:
--PHP
--JavaScript
--HTML
--CSS
--Typescript
+# Language 
+- PHP <br>
+- JavaScript <br>
+- HTML <br>
+- CSS <br>
+- Typescript <br>
 
-Plugins:
--Bootstrap
--Ionic
--Cordova
+# Plugins
+- Bootstrap <br>
+- Ionic <br>
+- Cordova <br>
 
 Src/cr : yh-ong
 
