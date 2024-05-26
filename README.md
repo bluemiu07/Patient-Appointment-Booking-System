@@ -1,6 +1,6 @@
 # Web-Based Patient Appointment Booking System
 
-For System Design Specification, you can refer to this document 
+[ For System Design Specification, you can refer to this document ](https://github.com/bluemiu07/Patient-Appointment-Booking-System/blob/main/PDIE%20Design%20Report.pdf)
 
 # Language 
 - PHP <br>
